@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BeaconApp</string>
+    <string name="num_of_beacon">検知Beacon数：</string>
+    <string name="num">台</string>
+    <string name="button">UPDATE</string>
+    <string name="item_name_uuid">UUID: </string>
+    <string name="item_name_major">major: </string>
+    <string name="item_name_minor">minor: </string>
+    <string name="item_name_TxPower">Tx_Power: </string>
+    <string name="item_name_rssi">RSSI: </string>
+    <string name="item_name_distance">distance: </string>
+</resources>
